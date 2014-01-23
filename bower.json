@@ -1,0 +1,31 @@
+{
+  "name": "backbone.whisper",
+  "main": "backbone.whisper.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sethmcl/backbone.whisper",
+  "authors": [
+    "Seth McLaughlin <s@sethmcl.com>"
+  ],
+  "description": "A small plugin to allow event bubbling in Backbone Views",
+  "keywords": [
+    "backbone",
+    "events",
+    "event",
+    "bubbling",
+    "mvc",
+    "view",
+    "management"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.10.2",
+    "underscore": "1.5.2"
+  }
+}

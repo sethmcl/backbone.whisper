@@ -1,8 +1,8 @@
 /**
  * @venus-library mocha
  * @venus-include ../mocks/backbone.js
- * @venus-include ../../dependencies/underscore.js
- * @venus-include ../../dependencies/jquery.js
+ * @venus-include ../../bower_components/underscore/underscore.js
+ * @venus-include ../../bower_components/jquery/jquery.js
  * @venus-include ../helpers/TestView.js
  * @venus-code ../../backbone.whisper.js
  */
